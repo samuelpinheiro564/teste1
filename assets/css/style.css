@@ -1,25 +1,31 @@
-    body {
-        background-color: rgb(0, 0, 0);
-        background-image: url(https://www.eusemfronteiras.com.br/wp-content/uploads/2015/11/12-810x456.png);
-        background-repeat: no-repeat;
-        background-size: cover;
-         }
+form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+    border-radius: 5px;
+}
+#ice {
+    font-size:10px;
+    background-color: blue;
+    width:70px;
+    height: 40px;
+    margin: auto;
+}
+#ice:hover{
+background-color: brown;
+font-size: 30px;
+width: 180px;
+height: 60px;
+}
 
-    #pa1 {
-       font-size: 30px;
-        font-family: 'Franklin Gothic Medium';
-        color: rgb(255, 255, 255);
-    }
+.ice_3 {
+    border-radius: 20px;
+    border-color: blueviolet;
+    margin-bottom: 50px;;
+}
+#triste {
+    margin: 10px;
+}
 
-    h1 {
-        color: rgb(255, 0, 0);
-        font-family: Arial;
-    }
 
-    h2 {
-        color: rgb(255, 0, 0);
-    }
-
-    h3 {
-        color: rgb(255, 0, 0);
-    }
