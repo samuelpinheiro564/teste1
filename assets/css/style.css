@@ -1,0 +1,25 @@
+    body {
+        background-color: rgb(0, 0, 0);
+        background-image: url(https://www.eusemfronteiras.com.br/wp-content/uploads/2015/11/12-810x456.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+         }
+
+    #pa1 {
+       font-size: 30px;
+        font-family: 'Franklin Gothic Medium';
+        color: rgb(255, 255, 255);
+    }
+
+    h1 {
+        color: rgb(255, 0, 0);
+        font-family: Arial;
+    }
+
+    h2 {
+        color: rgb(255, 0, 0);
+    }
+
+    h3 {
+        color: rgb(255, 0, 0);
+    }
